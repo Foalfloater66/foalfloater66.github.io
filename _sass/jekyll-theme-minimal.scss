@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#ae1b1b;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#f32121;
   font-weight: bold;
 }
 
@@ -56,9 +56,13 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4px;
 }
+
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -119,10 +123,13 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:600px;
   float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
 }
 
 ul.downloads {
@@ -186,7 +193,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }

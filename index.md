@@ -2,122 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Past Experience
+* Research Engineering Intern @ [Google DeepMind](https://deepmind.google/) (2024)
+* Senior Programming Tutor @ [UCL Computer Science](https://www.ucl.ac.uk/computer-science/) (2023-24)
+* Teaching Assistant @ [UCL Computer Science](https://www.ucl.ac.uk/computer-science/) (2023-24)
+* Software Engineering Intern @ [Advanced Micro Devices](https://www.amd.com/en.html) (2023)
+* Programming Tutor @ [UCL Computer Science](https://www.ucl.ac.uk/computer-science/) (2022-23)
 
-[Link to another page](./another-page.html).
+---
+## Projects
 
-There should be whitespace between paragraphs.
+### Distributed Ticker-Tape
+Designed and implemented a distributed ticker-tape system using Lamport Logical Clocks to replicate data across
+multiple servers while preserving the consistent order of arrival.
+Demonstrated the reliability and robustness of the protocol by way of a design document, achieving full marks.
+### Link-State IGP Packet Analyzer
+Reconstructed a network graph by analyzing a packet trace of OSPF messages between IGP-speaking routers.
+Developed a program to detect the possibility of transient forwarding loops during network link failures.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Tennis Training Application
+Developed an easily accessible tennis identification system, providing insight into player performance from video feeds and replacing complex and expensive tennis analysis equipment for InfoSys' involvement in the 2022 Australia Open.
+Trained a machine learning model with TensorFlow and Keras to classify tennis shots with an average accuracy of 85%.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
+## Organizations
+* Marketing Officer @ [UCL Cyber Security Society](https://studentsunionucl.org/clubs-societies/cyber-security-society) (2024-present)
+* Co-Founder & Vice President @ [UCL Cyber Security Society](https://studentsunionucl.org/clubs-societies/cyber-security-society) (2023-24)
+* Gender Equality Representative @ [UCL Computer Science](https://www.ucl.ac.uk/computer-science/about/equity-diversity-and-inclusion/gender-equality-athena-swan) (2022-present)
+* President @ [UCL Graphic Novels and Comics Society](https://studentsunionucl.org/clubs-societies/graphic-novels-and-comics-society) (2021-23)
+  
