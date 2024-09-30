@@ -12,18 +12,12 @@ title: Morgane Ohlig
 
 ---
 ## Projects
+* **[RIDS](https://github.com/Foalfloater66/starlink-fyp)**: A Lightweight LFA Mitigation Algorithm for LEO Inter-Satellite Networks.
+* **Distributed Ticker-Tape**: Design and Implementation of a Distributed Ticker-Tape System Using Lamport Logical Clocks.\*
+* **Link-State IGP Packet Analyzer**: Link-State IGP Packet Analysis: Detecting Transient Forwarding Loops in OSPF Networks.\*
+* **[Nice Shot!](https://github.com/UCL-COMP16-2021-Team1/nice-shot)**: Tennis Shot Classification Using Machine Learning: A Cost-Effective Alternative for Player Performance Analysis.
 
-### Distributed Ticker-Tape
-Designed and implemented a distributed ticker-tape system using Lamport Logical Clocks to replicate data across
-multiple servers while preserving the consistent order of arrival.
-Demonstrated the reliability and robustness of the protocol by way of a design document, achieving full marks.
-### Link-State IGP Packet Analyzer
-Reconstructed a network graph by analyzing a packet trace of OSPF messages between IGP-speaking routers.
-Developed a program to detect the possibility of transient forwarding loops during network link failures.
-
-### Tennis Training Application
-Developed an easily accessible tennis identification system, providing insight into player performance from video feeds and replacing complex and expensive tennis analysis equipment for InfoSys' involvement in the 2022 Australia Open.
-Trained a machine learning model with TensorFlow and Keras to classify tennis shots with an average accuracy of 85%.
+\**Code cannot be distributed, as it is part of a sensitive university assignment.*
 
 ---
 ## Organizations
